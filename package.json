@@ -1,24 +1,17 @@
 {
-    "title": "Sacred",
-    "name": "sacred-buddha-temple",
+    "title": "Zyok Music",
+    "name": "Zyok Music",
     "version": "5.2.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
+    "description": "A website for the musician zyok.",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "zyok",
+        "music",
+        "mass minds",
     ],
-    "homepage": "",
-    "bugs": {
-        "url": "",
-        "email": "feedback@startbootstrap.com"
-    },
+    "homepage": "massmindsproductions.com",
     "license": "MIT",
     "author": "Kevin Stamps",
     "repository": {

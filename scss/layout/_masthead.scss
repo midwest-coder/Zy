@@ -2,7 +2,7 @@
 header.masthead {
   text-align: center;
   color: white;
-  background: linear-gradient(to bottom, #{fade-out($black, .7)} 0%,#{fade-out($black, .3)} 75%,$black 100%), url('../img/products/architecture-building-castle-402028.jpg');
+  background: linear-gradient(to bottom, #{fade-out($black, .7)} 0%,#{fade-out($black, .3)} 75%,$black 100%), url('../img/bg-masthead-2.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11,7 +11,7 @@ header.masthead {
     padding-top: 100px;
     padding-bottom: 150px;
     img {
-      max-height: 400px;
+      max-height: 200px;
     }
     .intro-lead-in {
       font-size: 22px;
@@ -34,7 +34,7 @@ header.masthead {
     .intro-text {
       padding-top: 150px;
       img {
-        max-height: 500px;
+        max-height: 400px;
       }
       .intro-lead-in {
         font-size: 40px;
